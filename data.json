@@ -2,11 +2,13 @@
     {
         "id": 1,
         "name": "it",
-        "lastName": "it"
+        "lastName": "it",
+        "active": "true"
       },
       {
         "id": 2,
         "name": "dev",
-        "lastName": "dev'"
+        "lastName": "dev",
+        "active": "false"
       }
 ]
